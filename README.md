@@ -5,9 +5,7 @@
 
 - 🔭 Hoje sou estagiária no Banco Safra
 - 🌱 Estudando Angular 
-
 ##
-
   <!-- Cartão de estatísticas
   Site: https://github.com/anuraghazra/github-readme-stats/tree/master
   Alterar cor: https://htmlcolorcodes.com/ -->
