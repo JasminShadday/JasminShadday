@@ -1,5 +1,8 @@
+<!-- margem -->
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=f39c12&height=120&section=header"/>
+
 <!-- Titulo de apresentação movel -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=50&duration=4000&pause=1000&color=f39c12&center=true&vCenter=true&random=false&width=1000&lines=Hi!%2C+my+name+is+Jasmin;I'm+20+years+old;I'm+a+Software+Developer;I'm+from+Brazil;welcome%3A)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=50&duration=4000&pause=1000&color=f39c12&center=true&vCenter=true&random=false&width=1000&lines=Be+Welcome!+:%29;Hi!%2C+my+name+is+Jasmin;I'm+20+years+old;I'm+a+Software+Developer;I'm+from+São+Paulo,+Brazil)](https://git.io/typing-svg)
 
 ##
 
@@ -38,4 +41,5 @@ Site: https://devicon.dev/ -->
   <a href = "mailto:jasminshadday04@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/jasmin-shadday" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
-
+<!--Margem -->
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=f39c12&height=120&section=footer"/>
