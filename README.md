@@ -2,7 +2,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=f39c12&height=120&section=header"/>
 
 <!-- Titulo de apresentação movel -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=50&duration=4000&pause=1000&color=ffffff&center=true&vCenter=true&random=false&width=1000&lines=Be+Welcome!+:%29;Hi!%2C+my+name+is+Jasmin;I'm+20+years+old;I'm+a+Software+Developer;I'm+from+São+Paulo,+Brazil)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=50&duration=4000&pause=1000&color=ffffff&center=true&vCenter=true&random=false&width=1000&lines=Be+Welcome!+:%29;Hi!%2C+my+name+is+Jasmin;I'm+21+years+old;I'm+a+Data+Engineer;I'm+from+São+Paulo,+Brazil)](https://git.io/typing-svg)
 
 <!--
 ##
