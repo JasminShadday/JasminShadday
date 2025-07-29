@@ -52,6 +52,8 @@ Site: https://devicon.dev/ -->
   <a href="https://instagram.com/Shadday.y" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:jasminshadday04@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/jasmin-shadday" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+    <a href ="https://wa.me/5511956024311"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
+
 </div>
 <!--Margem -->
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=f39c12&height=120&section=footer"/>
